@@ -1,0 +1,1 @@
+# spellmanager_sequelizer
